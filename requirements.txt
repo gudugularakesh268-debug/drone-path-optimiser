@@ -1,0 +1,6 @@
+streamlit
+geopandas
+fiona
+pandas
+numpy
+shapely
